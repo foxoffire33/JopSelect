@@ -25,10 +25,10 @@ public class Vacancy: BaseModel
     
     //Relation to company
     public Guid CompanyId { get; set; }
-    public List<Company> Companies { get; set; }
+    public Company Company { get; set; }
     
     //Relation to branch
     public Guid BranchId { get; set; }
-    public List<Branche> Branches { get; set; }
+    public Branche Branche { get; set; }
     
 }

@@ -2,7 +2,7 @@ namespace JopSelectData.Models;
 
 public class Address: BaseModel
 {
-    public Guid AddressId { get; set; }
+    public Guid AddressID { get; set; }
     public string Postal { get; set; }
     public string Street { get; set; }
     public ushort HouseNumber { get; set; }
