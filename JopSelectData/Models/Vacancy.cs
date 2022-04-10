@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
+using JopSelectData.Enums;
 
 namespace JopSelectData.Models;
 
@@ -11,15 +12,15 @@ public class Vacancy: BaseModel
     
     public int EducationLevel { get; set; }
     public int HoursAWeek { get; set; }
-    public int Type { get; set; }
-    public int HolidaysAYear { get; set; }
+    public VacancyType VacancyType { get; set; }
+    public ushort HolidaysAYear { get; set; }
     public int MinimalSalary { get; set; }
     public int MaximumSalary { get; set; }
-    public int City { get; set; }
+    public City City { get; set; }
     
-    public string? FunctionRequirements { get; set;  }
-    public string? FunctionDescription { get; set;  }
-    public string? VacancyDescription { get; set;  }
+    public string FunctionRequirements { get; set;  }
+    public string FunctionDescription { get; set;  }
+    public string VacancyDescription { get; set;  }
     //Relations
     
     //Relation to company
