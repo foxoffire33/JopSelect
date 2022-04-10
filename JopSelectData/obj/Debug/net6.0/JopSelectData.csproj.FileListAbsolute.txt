@@ -1,0 +1,12 @@
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.csproj.AssemblyReference.cache
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.AssemblyInfoInputs.cache
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.AssemblyInfo.cs
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.csproj.CoreCompileInputs.cache
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/bin/Debug/net6.0/JopSelectData.deps.json
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/bin/Debug/net6.0/JopSelectData.dll
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/bin/Debug/net6.0/JopSelectData.pdb
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.dll
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/refint/JopSelectData.dll
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.pdb
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/ref/JopSelectData.dll

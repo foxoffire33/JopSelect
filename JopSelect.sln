@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JopSelect", "JopSelect\JopSelect.csproj", "{23366E56-9B73-43DD-9BF7-1D0EED834438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JopSelectData", "JopSelectData\JopSelectData.csproj", "{B7E26B76-E149-4DF9-908C-6355C7F92F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JopSelectTest", "JopSelectTest\JopSelectTest.csproj", "{3C9BFC80-E971-47BE-8663-1FB2E2314F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23366E56-9B73-43DD-9BF7-1D0EED834438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23366E56-9B73-43DD-9BF7-1D0EED834438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23366E56-9B73-43DD-9BF7-1D0EED834438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23366E56-9B73-43DD-9BF7-1D0EED834438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E26B76-E149-4DF9-908C-6355C7F92F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E26B76-E149-4DF9-908C-6355C7F92F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E26B76-E149-4DF9-908C-6355C7F92F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E26B76-E149-4DF9-908C-6355C7F92F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9BFC80-E971-47BE-8663-1FB2E2314F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9BFC80-E971-47BE-8663-1FB2E2314F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9BFC80-E971-47BE-8663-1FB2E2314F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9BFC80-E971-47BE-8663-1FB2E2314F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
