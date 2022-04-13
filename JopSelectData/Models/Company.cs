@@ -17,7 +17,9 @@ public class Company: BaseModel
         set => _ContactName = value;
     }
 
+    public Guid AddressId { get; set;  }
     public Address Address { get; set;  }
+    
     public string Kvk { get; set;  }
     public string Phone { get; set;  }
     public Uri Webpage { get; set;  }

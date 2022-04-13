@@ -1,5 +1,5 @@
+using System.Configuration;
 using JopSelectData;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Identity.Web;
 using Microsoft.EntityFrameworkCore;
@@ -10,8 +10,19 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddMicrosoftIdentityWebApi(builder.Configuration.GetSection("AzureAdB2C"));
 
-builder.Services.AddDbContext<JopSelectDatabaseContext>(opt =>
-    opt.UseCosmos("name=ConnectionStrings:DefaultConnection","name=ConnectionStrings:DefaultDatabase"));
+//builder.Services.AddDbContext<SqlLiteDbContext>();
+
+/*builder.Services.AddEntityFrameworkCosmos();
+builder.Services.AddDbContext<CosmosDbContext>(options =>
+{
+    
+    options.UseCosmos(
+        builder.Configuration["CosmosDb:EndpointUrl"],
+        builder.Configuration["CosmosDb:PrivateKey"], 
+        builder.Configuration["CosmosDb:DbName"]);
+});
+*/
+builder.Services.AddDbContext<SqlLiteDbContext>();
 
 
 builder.Services.AddControllers();

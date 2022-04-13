@@ -7,6 +7,6 @@
 /Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/bin/Debug/net6.0/JopSelectData.dll
 /Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/bin/Debug/net6.0/JopSelectData.pdb
 /Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.dll
-/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/refint/JopSelectData.dll
 /Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/JopSelectData.pdb
 /Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/obj/Debug/net6.0/ref/JopSelectData.dll
+/Users/reinierdelaparra/RiderProjects/JopSelect/JopSelectData/bin/Debug/net6.0/ref/JopSelectData.dll
